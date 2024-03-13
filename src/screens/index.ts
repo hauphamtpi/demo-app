@@ -1,0 +1,5 @@
+export { HomeScreen } from './Home'
+export { SignInScreen } from './SignIn'
+export { SignUpScreen } from './SignUp'
+export { DetailsScreen } from './Details'
+export { ResetPasswordScreen } from './ResetPassword'
